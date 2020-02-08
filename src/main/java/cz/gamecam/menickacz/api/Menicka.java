@@ -5,6 +5,9 @@
  */
 package cz.gamecam.menickacz.api;
 
+import cz.gamecam.menickacz.data.basic.ListCityResponse;
+import cz.gamecam.menickacz.data.basic.ListRestaurantsResponse;
+import cz.gamecam.menickacz.data.basic.RestaurantResponse;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;

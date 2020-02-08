@@ -5,11 +5,11 @@
  */
 package cz.gamecam.menickacz.base;
 
-import cz.gamecam.menickacz.api.ListCityResponse;
-import cz.gamecam.menickacz.api.ListRestaurantsResponse;
+import cz.gamecam.menickacz.data.basic.ListCityResponse;
+import cz.gamecam.menickacz.data.basic.ListRestaurantsResponse;
 import cz.gamecam.menickacz.api.Menicka;
-import cz.gamecam.menickacz.api.Response;
-import cz.gamecam.menickacz.api.RestaurantResponse;
+import cz.gamecam.menickacz.data.basic.Response;
+import cz.gamecam.menickacz.data.basic.RestaurantResponse;
 import cz.gamecam.menickacz.data.Item;
 import cz.gamecam.menickacz.data.Menu;
 import cz.gamecam.menickacz.data.RestaurantDetail;
