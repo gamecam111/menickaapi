@@ -8,7 +8,7 @@ Toto api slúži k prístupu k základným údajom zo stránky menicka.cz
 *Celý kód je písaný v jave a bol testovaný na Wildfly18 s Java11*
 
 ## Základná funkčnosť
-API podporuje moťnosť cachovania výsledkov (mestá a restaurácie v nich)
+API podporuje možnosť cachovania výsledkov (mestá a reštaurácie v nich)
 Toto cachovanie prebieha každú pol hodinu a slúži ku getovanie meníčka ponocou názvu reštaurácie a mesta.
 Prístup k údajom zabezpečuje rest.
 
