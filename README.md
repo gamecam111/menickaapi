@@ -15,4 +15,4 @@ Prístup k údajom zabezpečuje rest.
 **Pozor! Nie je doladená situácia kedy existujú 2 reštaurácie s rovnakým menom v rozdielnych mestách.**
 
 ## REST volania
-
+- test
