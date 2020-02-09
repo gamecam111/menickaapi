@@ -25,5 +25,6 @@ Prístup k údajom zabezpečuje rest.
 ## Dodatok
 Celé api je iba rýchlo nastrelené a kopa vecí v ňom potrebuje doladiť. Napríklad info o reštaurácii nie je kompletné a je nutné ho doplňiť. 
 
+**V prípade otázok je možné ma kontaktovať na erik.juricek@azet.sk**
 
 ### © Erik Juríček 2020
