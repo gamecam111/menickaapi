@@ -1,3 +1,6 @@
 # menickaapi
 Api for menicka.cz
-test
+
+Rest:
+
+*/menickacz/listcities
