@@ -22,7 +22,7 @@ Prístup k údajom zabezpečuje rest.
 - getrestaurantbyname -  Informácie o reštaurácii podľa mena reštaurácie (menu, info atd..)
 
 
-##Dodatok
+## Dodatok
 Celé api je iba rýchlo nastrelené a kopa vecí v ňom potrebuje doladiť. Napríklad info o reštaurácii nie je kompletné a je nutné ho doplňiť. 
 
 
